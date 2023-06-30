@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 
-NT_PROMPT_SYMBOL=❱
+NT_PROMPT_SYMBOL=$
 
 function precmd(){
   autoload -U add-zsh-hook
