@@ -8,7 +8,7 @@ Add the following line to your .zshrc
 
     antigen theme ciarafair/nothing nothing
 
-## Screenshot
+## Demonstration
 
 ![nothing](https://raw.githubusercontent.com/ciarafair/nothing/master/nothing.gif)
 
