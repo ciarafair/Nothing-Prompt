@@ -1,4 +1,21 @@
-# Nothing Prompt
+<div align="justify">
+<div align="center">
+
+```   
+ ██████   █████           █████    █████       ███                     
+░░██████ ░░███           ░░███    ░░███       ░░░                      
+ ░███░███ ░███   ██████  ███████   ░███████   ████  ████████    ███████
+ ░███░░███░███  ███░░███░░░███░    ░███░░███ ░░███ ░░███░░███  ███░░███
+ ░███ ░░██████ ░███ ░███  ░███     ░███ ░███  ░███  ░███ ░███ ░███ ░███
+ ░███  ░░█████ ░███ ░███  ░███ ███ ░███ ░███  ░███  ░███ ░███ ░███ ░███
+ █████  ░░█████░░██████   ░░█████  ████ █████ █████ ████ █████░░███████
+░░░░░    ░░░░░  ░░░░░░     ░░░░░  ░░░░ ░░░░░ ░░░░░ ░░░░ ░░░░░  ░░░░░███
+                                                               ███ ░███
+                                                              ░░██████ 
+                                                               ░░░░░░  
+```
+
+</div>
 
 ## Installation
 
@@ -10,7 +27,7 @@ Add the following line to your .zshrc
 
 ## Demonstration
 
-![nothing](https://raw.githubusercontent.com/ciarafair/nothing/master/Example.mov)
+![nothing](https://raw.githubusercontent.com/ciarafair/nothing/master/example.gif)
 
 ## Configurations
 
@@ -25,3 +42,4 @@ This project is intended to be a safe, welcoming space for collaboration, and co
 ## Original Author
 
 * **indrajit** - *Owner* - [eendroroy](https://github.com/eendroroy)
+</div>
