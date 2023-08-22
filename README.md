@@ -10,7 +10,7 @@ Add the following line to your .zshrc
 
 ## Demonstration
 
-![nothing](https://raw.githubusercontent.com/ciarafair/nothing/master/nothing.gif)
+![nothing](https://raw.githubusercontent.com/ciarafair/nothing/master/Example.mov)
 
 ## Configurations
 
